@@ -1,0 +1,98 @@
+[
+
+   {
+
+      "repository":"CorvusRom-Devices/vendor_xiaomi_ysl",
+
+      "target_path":"vendor/xiaomi",
+
+      "branch":"11",
+
+      "remote":"github"
+
+   },
+
+   {
+
+ "repository":"stormbreaker-project/kernel_xiaomi_ysl",
+
+      "target_path":"kernel/xiaomi/ysl",
+
+      "branch":"main",
+
+      "remote":"github"
+
+   },
+
+   {
+
+      "repository":"lostark13/vendor_MiuiCamera",
+
+      "target_path":"vendor/MiuiCamera",
+
+      "branch":"ten-ysl",
+
+      "remote":"github"
+
+},
+
+   {
+
+      "repository":"LineageOS/android_hardware_qcom_audio",
+
+      "target_path":"hardware/qcom-caf/msm8996/audio",
+
+      "branch":"lineage-18.0-caf-msm8996",
+
+      "remote":"github"
+
+},
+
+   {
+
+      "repository":"LineageOS/android_hardware_qcom_media",
+
+      "target_path":"hardware/qcom-caf/msm8996/media",
+
+      "branch":"lineage-18.0-caf-msm8996",
+
+      "remote":"github"
+
+},
+
+   {
+
+      "repository":"LineageOS/android_hardware_qcom_display",
+
+      "target_path":"hardware/qcom-caf/msm8996/display",
+
+      "branch":"lineage-18.0-caf-msm8996",
+
+      "remote":"github"
+
+   }
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
